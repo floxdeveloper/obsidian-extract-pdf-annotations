@@ -40,6 +40,8 @@ As such, you can relate comments for your topics (here 'Hello World') from sever
 	- {{body}}: 'Body of annotation'
 
 ## Versions
+1.2.2 Improve annotation extraction
+
 1.2.1 updated dependencies
 
 1.2.0 added template settings
